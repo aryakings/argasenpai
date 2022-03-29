@@ -85,7 +85,7 @@ const wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')
 
 //━━━━━━━━━━━━━━━[ FAKE ]━━━━━━━━━━━━━━━━━//
 
-const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./lib/hisoka.jpg'), surface: 200, message: `Haii Kak ${pushname}\n𝙲𝚖𝚍 ${command}`, orderTitle: 'Please Subscribe Youtube Sanzy YT', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6281223918622-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./lib/hisoka.jpg'), surface: 200, message: `Haii Kak ${pushname}\n𝙲𝚖𝚍 ${command}`, orderTitle: 'Please Follow Instagram RiyoOfc', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
 
 //END
 	try {

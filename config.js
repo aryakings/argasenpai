@@ -59,7 +59,7 @@ global.namabot = 'Minami Botz'
 
 global.namaowner = 'RiyoOfc YT'
 
-global.myweb = 'https://youtube.com/channel/UCq2OIMRWymUW4ykJnfHp5PQ'
+global.myweb = 'https://github.com/RiyoXdz'
 
 
 global.owner = [ '6281223918622' ]

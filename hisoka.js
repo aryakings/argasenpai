@@ -572,6 +572,7 @@ case 'tqtt': case 'tqto': case 'thanksto': {
 ⭔ Ortu Saya.
 ⭔ DikaArdnt (Author).
 ⭔ Sanzy YT.
+⭔ RiyoOfc
 ⭔ Fatih A.
 ⭔ Nurutomo.
 ⭔ Mhankbarbar.

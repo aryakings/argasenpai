@@ -1,5 +1,5 @@
 {
-  "name": "sanzy-YT",
+  "name": "RiyoOfc-YT",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Sanzy YT.",
+  "author": "RiyoOfc-YT.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",

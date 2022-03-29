@@ -810,13 +810,13 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 https://github.com/DikaArdnt/Hisoka-Morou
 
 
-🌱 Recode By : Sanzy YT
+🌱 Recode By : Riyo OFC
 
-https://youtube.com/c/SanzyYT`
+https://youtube.com/channel/UCq2OIMRWymUW4ykJnfHp5PQ`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://youtube.com/channel/UCq2OIMRWymUW4ykJnfHp5PQ'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
@@ -871,8 +871,8 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productImage": messa.imageMessage,
                         "productId": "7091718154232528",
                         "title": `_*MENU *_`,
-                        "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
-                        "footerText": `© Sazy YT`,
+                        "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 12K\n┃⬡ PERMANEN : 15K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
+                        "footerText": `©Riyo OFC`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000000000000",
                         "productImageCount": 1,
@@ -3353,8 +3353,8 @@ case 'sewa': case 'sewabot': {
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃   ⬣ SEWA + PREM ⬣
 ┃⬡ 1 MINGGU : 8K
-┃⬡ 1 BULAN : 18K
-┃⬡ PERMANEN : 25K
+┃⬡ 1 BULAN : 12K
+┃⬡ PERMANEN : 15K
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰

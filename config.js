@@ -55,23 +55,23 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Minami Botz'
+global.namabot = 'ARGA Botz'
 
-global.namaowner = 'RiyoOfc YT'
+global.namaowner = 'TDAP•ARGA'
 
-global.myweb = 'https://github.com/RiyoXdz'
-
-
-global.owner = [ '6281223918622' ]
+global.myweb = 'https://github.com/aryakings'
 
 
-global.premium = ['6281223918622']
+global.owner = [ '6289531660936' ]
 
 
-global.packname = 'Minami Gemoyyy'
+global.premium = ['6289531660936']
 
 
-global.author = 'WhatsApp Bot'
+global.packname = 'Arga Saputra'
+
+
+global.author = 'tdap • arga'
 
 
 global.sessionName = 'hisoka'
